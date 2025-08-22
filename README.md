@@ -4,7 +4,7 @@
 <p align="center">
   🇧🇷 <a href="#português">Português</a> | 🇺🇸 <a href="#english">English</a>
 </p>
----
+
 ## 🇧🇷 Português <a name="português"></a>
 # 👋 Olá, bem-vindo ao meu humilde GitHub  
 ## 🚀 Sobre mim  
