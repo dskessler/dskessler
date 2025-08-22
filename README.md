@@ -15,8 +15,6 @@
 
 Estou em um momento de transição de carreira, buscando aprender mais sobre diferentes linguagens e ferramentas de programação e procurando minha primeira oportunidade no mercado para essa nova fase da minha carreira.
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
@@ -24,8 +22,6 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 ## 📫 Onde me encontrar:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-kessler-577416b2/)  
-
----
 
 ✨ Obrigado por visitar meu perfil! Fique à vontade para se conectar ou trocar ideias sobre broadcast e tecnologia em geral 🚀  
 
