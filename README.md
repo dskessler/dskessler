@@ -29,24 +29,7 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 
 ## 📫 Onde me encontrar  
 
-<p align="center">
-  [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)
-</p>
-
----
-
-## 💡 Estou aprendendo  
-
-<p align="center">
-- 🧠 Lógica de Programação  
-- 🐍 Python  
-- 🔧 Git  
-- 🤖 Inteligência Artificial (IA)
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
 
 ---
 
@@ -71,20 +54,7 @@ Currently in a career transition, seeking to learn more about different programm
 
 ## 📫 Where to find me  
 
-<p align="center">
-  [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)
-</p>
-
----
-
-## 💡 Currently learning  
-
-<p align="center">
-- 🧠 Programming Logic  
-- 🐍 Python  
-- 🔧 Git  
-- 🤖 Artificial Intelligence (AI)
-</p>
+[LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
 
 ---
 
