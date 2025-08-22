@@ -1,18 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Diego%20Kessler&fontSize=40&fontColor=ffffff&fontAlignY=35&fontAlign=50" />
 </p>
-
 <p align="center">
   🇧🇷 <a href="#português">Português</a> | 🇺🇸 <a href="#english">English</a>
 </p>
-
 ---
-
 ## 🇧🇷 Português <a name="português"></a>
-
 # 👋 Olá, bem-vindo ao meu humilde GitHub  
 ## 🚀 Sobre mim  
-
 🎥 Com experiência em grandes eventos internacionais.  
 📡 Especialista em engenharia de transmissão, suporte técnico, áudio, vídeo e coordenação de operações.  
 
