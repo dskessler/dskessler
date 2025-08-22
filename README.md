@@ -29,7 +29,9 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 
 ## 📫 Onde me encontrar  
 
-[LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-kessler-577416b2/)
+</p>
 
 ---
 
@@ -69,7 +71,9 @@ Currently in a career transition, seeking to learn more about different programm
 
 ## 📫 Where to find me  
 
-[LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-kessler-577416b2/)
+</p>
 
 ---
 
