@@ -26,7 +26,6 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 
 [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
 
----
 
 ## 💡 Estou aprendendo  
 
