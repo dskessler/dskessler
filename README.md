@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Olá, eu sou o Diego Kessler  
-## 🚀 Sobre mim:  
+# 🚀 Sobre mim:  
 
 🎥 **Engenheiro de Broadcasting** com experiência em grandes eventos internacionais.  
 📡 Especialista em engenharia de transmissão, suporte técnico, áudio, vídeo e coordenação de operações.  
