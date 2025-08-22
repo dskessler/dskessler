@@ -33,6 +33,21 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 
 ---
 
+## 💡 Estou aprendendo  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-6CC644?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+---
+
 ## 🇺🇸 English <a name="english"></a>
 
 # 👋 Hello, welcome to my humble GitHub  
