@@ -30,7 +30,7 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 ## 📫 Onde me encontrar  
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-kessler-577416b2/)
+  [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)
 </p>
 
 ---
@@ -38,10 +38,10 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 ## 💡 Estou aprendendo  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/IA-6CC644?style=for-the-badge&logo=openai&logoColor=white" />
+- 🧠 Lógica de Programação  
+- 🐍 Python  
+- 🔧 Git  
+- 🤖 Inteligência Artificial (IA)
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Currently in a career transition, seeking to learn more about different programm
 ## 📫 Where to find me  
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-kessler-577416b2/)
+  [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)
 </p>
 
 ---
@@ -80,10 +80,10 @@ Currently in a career transition, seeking to learn more about different programm
 ## 💡 Currently learning  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Programming_Logic-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-6CC644?style=for-the-badge&logo=openai&logoColor=white" />
+- 🧠 Programming Logic  
+- 🐍 Python  
+- 🔧 Git  
+- 🤖 Artificial Intelligence (AI)
 </p>
 
 ---
