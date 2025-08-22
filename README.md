@@ -44,10 +44,8 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 ---
 
 ## 🇺🇸 English <a name="english"></a>
-
 # 👋 Hello, welcome to my humble GitHub  
 ## 🚀 About me  
-
 🎥 Experienced in major international events.  
 📡 Specialist in broadcast engineering, technical support, audio, video, and operations coordination.  
 
@@ -67,6 +65,15 @@ Currently in a career transition, seeking to learn more about different programm
 [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
 
 ---
+
+## 💡 Currently learning  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming_Logic-FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-6CC644?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ✨ Thank you for visiting my profile! Feel free to connect or exchange ideas about broadcast and technology in general 🚀  
 
