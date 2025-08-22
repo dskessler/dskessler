@@ -40,7 +40,6 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
----
 
 ## 🇺🇸 English <a name="english"></a>
 # 👋 Hello, welcome to my humble GitHub  
@@ -63,7 +62,6 @@ Currently in a career transition, seeking to learn more about different programm
 
 [LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
 
----
 
 ## 💡 Currently learning  
 
