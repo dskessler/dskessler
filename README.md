@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Diego%20Kessler&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Diego%20Kessler&fontSize=36&fontColor=ffffff&fontAlignY=35&fontAlign=50&desc=Engenheiro%20de%20Broadcasting&descSize=16&descAlignY=55" />
 </p>
 
 # 👋 Olá, eu sou o Diego Kessler  
@@ -24,7 +24,6 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 ## 📫 Onde me encontrar:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-kessler-577416b2/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
