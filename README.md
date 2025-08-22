@@ -29,9 +29,7 @@ Estou em um momento de transição de carreira, buscando aprender mais sobre dif
 
 ## 📫 Onde me encontrar  
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Kessler-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-kessler-577416b2/)
-</p>
+[LinkedIn](https://www.linkedin.com/in/diego-kessler-577416b2/)  
 
 ---
 
